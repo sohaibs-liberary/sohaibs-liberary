@@ -60,13 +60,6 @@
 
 ---
 
-### 📬 Contact Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/muhammad-suleman-shakeel-b87a69299](https://linkedin.com/in/muhammad-suleman-shakeel-b87a69299)  
-- 📧 **Email:** sulemanshakeel37@gmail.com
-
----
-
 ### ⚡ Fun Fact
 
 > 💭 *I enjoy turning complex UI challenges into smooth, intuitive experiences. Off-screen, I love exploring UI trends and perfecting animations.*
